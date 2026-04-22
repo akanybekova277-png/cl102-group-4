@@ -1,0 +1,4 @@
+Name: Amina Baratbekova
+Group: CL102 
+Favorite OS: Ubuntu
+Github Username: Baratbekova
