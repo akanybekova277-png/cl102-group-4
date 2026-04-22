@@ -1,0 +1,4 @@
+Name: aruuke
+Group: CL102
+Favorite OS: ubuntu
+GitHub Username:joroeva
